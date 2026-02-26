@@ -57,3 +57,19 @@ this project is a personal AI learning journey.
 - How shift() works in time series
 - How to convert analysis into rule-based logic
 - Basic structure of trading signal generation
+
+
+## Day 6 - Refactoring & Analysis Engine
+
+**Tasks Completed:**
+- Converted analysis logic into a reusable function
+- Encapsulated MA20 and crossover logic inside analyze_stock()
+- Return structured output instead of raw values
+- Generated formatted analysis message 
+- Added intelligent comment based on signal and trend state
+**learning Points:**
+- Importance fo functions in system design
+- How to refactor notebook code into reusable logic
+- Returning formatted strings using f-strings
+- Conditional logic for dynamic commmentary 
+- Preparing analysis engine for Telegram integration
