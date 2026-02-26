@@ -39,3 +39,4 @@ this project is a personal AI learning journey.
 **Learning Points:**
 - `Daily_Return` shows % change in Close price day by day
 - `MA_2` smooths prices using the last 2 days
+
