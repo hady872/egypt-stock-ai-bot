@@ -73,3 +73,23 @@ this project is a personal AI learning journey.
 - Returning formatted strings using f-strings
 - Conditional logic for dynamic commmentary 
 - Preparing analysis engine for Telegram integration
+
+
+
+## Day 8 – Telegram Bot Integration
+
+**Tasks Completed:**
+- Created Telegram bot using BotFather
+- Installed python-telegram-bot library
+- Built telegram_bot.py
+- Implemented /start command
+- Connected bot to analysis engine
+- Implemented /analyze command
+- Successfully received stock analysis via Telegram
+
+**Learning Points:**
+- How Telegram Bot API works
+- Using async functions in bot handlers
+- Connecting external logic (analysis.py) to Telegram
+- Running a polling-based bot
+- Transforming Python project into interactive system
